@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/journee/static/css/main.4eaf7320.css",
+    "main.js": "/journee/static/js/main.e860c5bd.js",
+    "static/media/Sochi.png": "/journee/static/media/Sochi.c9a28f4b25e51d34e91c.png",
+    "static/media/tumen.png": "/journee/static/media/tumen.b5ee734a1949bf4181b1.png",
+    "static/media/Omsk.png": "/journee/static/media/Omsk.c38f26c5972ec7365c30.png",
+    "static/media/second.png": "/journee/static/media/second.78faf95f8165c222b8eb.png",
+    "static/media/brat.png": "/journee/static/media/brat.cbcf6612df381ae3de1b.png",
+    "static/media/cats.png": "/journee/static/media/cats.c36e09eb60d4dc4b338d.png",
+    "static/media/Gotica.png": "/journee/static/media/Gotica.62ce613b99f0392bda80.png",
+    "static/media/3.png": "/journee/static/media/3.a120609c75d0e9029ea8.png",
+    "static/media/1.png": "/journee/static/media/1.d4f5a5335704d1452a23.png",
+    "static/media/2.png": "/journee/static/media/2.854cdf341b32cc2540a7.png",
+    "static/media/pushkin.png": "/journee/static/media/pushkin.226fd395c4ad45833758.png",
+    "static/media/4.png": "/journee/static/media/4.b49f01df57b9045b97cb.png",
+    "static/media/profile.svg": "/journee/static/media/profile.50b8d02412c48d5434c0926e8f5319ce.svg",
+    "static/media/logo.svg": "/journee/static/media/logo.beea8f1a4ca66d93e15b36f4f707bb68.svg",
+    "index.html": "/journee/index.html",
+    "static/media/photo.svg": "/journee/static/media/photo.7c5fac7d2c1f5ec666489fd4614cca67.svg",
+    "static/media/notification.svg": "/journee/static/media/notification.d063339b1b5dc3dbf255e556bccddde5.svg",
+    "static/media/miniProfile.svg": "/journee/static/media/miniProfile.a411ebe16f986835ba6d96807b2398fb.svg",
+    "main.4eaf7320.css.map": "/journee/static/css/main.4eaf7320.css.map",
+    "main.e860c5bd.js.map": "/journee/static/js/main.e860c5bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eaf7320.css",
+    "static/js/main.e860c5bd.js"
+  ]
+}
