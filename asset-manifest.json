@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/journee/static/css/main.4eaf7320.css",
-    "main.js": "/journee/static/js/main.e860c5bd.js",
+    "main.js": "/journee/static/js/main.65e71b0a.js",
     "static/media/Sochi.png": "/journee/static/media/Sochi.c9a28f4b25e51d34e91c.png",
     "static/media/tumen.png": "/journee/static/media/tumen.b5ee734a1949bf4181b1.png",
     "static/media/Omsk.png": "/journee/static/media/Omsk.c38f26c5972ec7365c30.png",
@@ -21,10 +21,10 @@
     "static/media/notification.svg": "/journee/static/media/notification.d063339b1b5dc3dbf255e556bccddde5.svg",
     "static/media/miniProfile.svg": "/journee/static/media/miniProfile.a411ebe16f986835ba6d96807b2398fb.svg",
     "main.4eaf7320.css.map": "/journee/static/css/main.4eaf7320.css.map",
-    "main.e860c5bd.js.map": "/journee/static/js/main.e860c5bd.js.map"
+    "main.65e71b0a.js.map": "/journee/static/js/main.65e71b0a.js.map"
   },
   "entrypoints": [
     "static/css/main.4eaf7320.css",
-    "static/js/main.e860c5bd.js"
+    "static/js/main.65e71b0a.js"
   ]
 }
