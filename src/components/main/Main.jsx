@@ -90,7 +90,7 @@ function Main() {
 
       <div>
         <div className={styles.popular}>
-          <h1>Инетресное рядом</h1>
+          <h1>Интересное рядом</h1>
           <p>Что понравится Вам</p>
         </div>
         <div className={styles.intrestingeElements}>
